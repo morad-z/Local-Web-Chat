@@ -31,7 +31,5 @@ A real-time chat application built with **Node.js**, **Express**, and **Socket.I
 
 4. Start the server:
    
-  bash
-  Copy code
   npm start
 
